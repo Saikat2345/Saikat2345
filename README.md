@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![Saikat Jana](https://png.pngtree.com/background/20211215/original/pngtree-ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner-picture-image_1493062.jpg)](https://www.linkedin.com/in/saikat-jana-43a17632a/)
 <h1 align="center">Hi 👋, I'm Saikat Jana</h1>
 <h3 align="center">Full-stack developer specializing in AI-powered web apps and computer vision systems.</h3>
 <img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
